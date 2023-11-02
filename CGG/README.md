@@ -1,4 +1,5 @@
 CGG
 
+[!Mapamundi](/gharsia.github.io/docs/assets/img/Mapamundi_merc.png)
 
-[!mapa](/docs/assets/img/world_merc.png)
+[!Eurasia](/gharsia.github.io/docs/assets/img/Eurasia_merc.png)
