@@ -1,4 +1,4 @@
 CGG
 
 
-[!mapa](/CGG/assets/img/world_merc.png)
+[!mapa](/gharsia.github.io/assets/img/world_merc.png)
