@@ -1,4 +1,4 @@
 CGG
 
 
-[!mapa](/assets/img/world_merc.png)
+[!mapa](/docs/assets/img/world_merc.png)
