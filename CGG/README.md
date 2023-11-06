@@ -6,4 +6,4 @@ CGG
 
 ![Eurasia](/docs/assets/img/Eurasia_merc.png)
 
-![Paquete](/10_Paquete.jpg)
+![Paquete](/CGG/10_Paquete.jpg)
