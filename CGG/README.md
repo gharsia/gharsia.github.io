@@ -1,6 +1,6 @@
 CGG
 
-![Mapamundi](/gharsia.github.io/main/docs/assets/img/Mapamundi_merc.png)
+![Mapamundi](./gharsia.github.io/main/docs/assets/img/Mapamundi_merc.png)
 
 ![Mapamundi-full](https://raw.githubusercontent.com/gharsia/gharsia.github.io/main/docs/assets/img/Mapamundi_merc.png)
 
