@@ -1,4 +1,6 @@
 ## Bibliografía sobre instrumentos de corda frotada
+- Ramón Yzquierdo, John Wright, [Francisco Luengo](http://www.franciscoluengo.com/Francisco_Luengo,_musico_&_luthier/Biografia.html) & Christian Rault (2000). _Instrumento de corda medievais. Investigación. Reconstrucción_. Deputación Provincial de Lugo
+  <https://cultura.deputacionlugo.gal/sites/deputacionlugo.org/files/inline-files/Instrumentos%20de%20corda%20medievais.pdf>
 
 ### Exemplos de busca no catálogo da BUSC (Biblioteca da USC):
 - "[instrumentos de arco](https://iacobus.usc.gal/discovery/search?query=any,contains,instrumentos%20de%20arco&tab=Everything&search_scope=MyInst_and_CI&vid=34CISUG_USC:VU1&lang=gl&offset=0)"
@@ -6,7 +8,7 @@
   
 ### Algunhas cousas atopadas nesas buscas:
 - Veronica Angyalossy, Erika Amano & Edenise Segala Alves (2005). "_Madeiras utilizadas na fabricação de arcos para instrumentos de corda: aspectos anatômicos_". _Acta botânica brasilica, 2005-12, Vol.19 (4), p.819-834_ <https://doi.org/10.1590/S0102-33062005000400018>
-- Fernández Bordas, Antonio, and Pedro Fontanilla Miñambres (1916). "_Los instrumentos de arco, tres momentos interesantes de su evolución: discurso leído en el acto de su recepción pública_". Madrid ; [editor non identificado], 1916. Print.  <https://iacobus.usc.gal/permalink/34CISUG_USC/o7pcup/alma991003628919707712>
+- Fernández Bordas, Antonio, and Pedro Fontanilla Miñambres (1916). "_Los instrumentos de arco, tres momentos interesantes de su evolución: discurso leído en el acto de su recepción pública_". Madrid ; [Real Academia de Bellas Artes de San Fernando, 1916](https://www.rabasf.shop/es/discursos/1895-los-instrumentos-de-arco-tres-momentos-interesantes-de-su-evolucion.html). Print.  <https://iacobus.usc.gal/permalink/34CISUG_USC/o7pcup/alma991003628919707712>
 - Wright, John (1993). “_Las Voces perdidas de las fídulas del Pórtico: un intento de análisis funcional de los instrumentos de arco del Pórtico de la Gloria. The lost voices of the Pórtico fiddles: an attemp of functional analysis of the bowed instruments on the Pórtico de la Gloria._”. N.p., 1993. Print. <https://iacobus.usc.gal/permalink/34CISUG_USC/o7pcup/alma991003491799707712>
 - Luis Báez Cervantes (2018) _Los instrumentos de cuerda frotada en el siglo XVIII_. AV NOTAS revista del CSM Andrés de Vandelvira de Jaén, 5: 64-83 <http://publicaciones.csmjaen.es/index.php/pruebas/article/view/151>  
   **Resumen:**  Durante el siglo XVIII, la utilización y evolución de los instrumentos de cuerda frotada estará intrínsecamente ligada al tránsito de los diferentes estilos compositivos que aparecerán en tal periodo. A consecuencia de ello, algunos de estos instrumentos caerán en desuso, mientras que otros serán sometidos a procesos de mejora constructiva, para responder a las necesidades de compositores, intérpretes y salas de conciertos. El presente artículo, muestra, desde una perspectiva general, la evolución de los instrumentos de esta naturaleza, desde su origen hasta su establecimiento como familia instrumental, acontecida en las últimas décadas  del período dieciochesco.
